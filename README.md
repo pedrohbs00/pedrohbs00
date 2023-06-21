@@ -1,5 +1,5 @@
 <div> 
-  <h1 align="center">👋Hi! I'm Pedro Batista and i'm studying to be a front-end developer!</h1>
+  <h1 align="center">👋Hi! I'm Pedro and welcome to my GitHUB!</h1>
 </div>
 <div align="center" style="display: flex">
   <a href="https://github.com/pedrohbs00">
